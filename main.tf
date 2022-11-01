@@ -1,4 +1,4 @@
 resource "local_file" "foo" {
-    content  = "foo13!"
+    content  = "foo14!"
     filename = "${path.module}/foo.bar"
 }
